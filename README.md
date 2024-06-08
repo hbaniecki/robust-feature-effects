@@ -34,10 +34,10 @@ This repository is a supplement to the following paper:
 
 ### Check out also
 
-Adebayo et al. **[Sanity Checks for Saliency Maps](https://doi.org/10.48550/arXiv.1810.0329)**. NeurIPS 2018
+Adebayo et al. **[Sanity Checks for Saliency Maps](https://doi.org/10.48550/arXiv.1810.03292)**. NeurIPS 2018
 
 Baniecki et al. **[Fooling Partial Dependence via Data Poisoning](https://doi.org/10.1007/978-3-031-26409-2_8)**. ECML PKDD 2022
 
 Gkolemis et al. **[RHALE: Robust and Heterogeneity-aware Accumulated Local Effects](https://doi.org/10.48550/arXiv.2309.11193)**. ECAI 2023
 
-Lin et al. **[On the Robustness of Removal-Based Feature Attributions](https://doi.org/10.48550/arXiv.2306.0746)**. NeurIPS 2023
+Lin et al. **[On the Robustness of Removal-Based Feature Attributions](https://doi.org/10.48550/arXiv.2306.07462)**. NeurIPS 2023
