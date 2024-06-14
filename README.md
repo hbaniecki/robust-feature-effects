@@ -1,8 +1,8 @@
 # On the Robustness of Global Feature Effect Explanations
 
-This repository is a supplement to the following paper:
+This repository is a supplement to [the following paper](https://arxiv.org/abs/2406.09069):
 
-> Hubert Baniecki, Giuseppe Casalicchio, Bernd Bischl, Przemyslaw Biecek. *On the Robustness of Global Feature Effect Explanations*. **ECML PKDD 2024**
+> Hubert Baniecki, Giuseppe Casalicchio, Bernd Bischl, Przemyslaw Biecek. *On the Robustness of Global Feature Effect Explanations*. **ECML PKDD 2024** https://arxiv.org/abs/2406.09069
 
 ```bibtex
 @inproceedings{baniecki2024robustness,
