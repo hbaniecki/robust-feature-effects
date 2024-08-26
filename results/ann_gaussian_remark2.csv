@@ -1,0 +1,19 @@
+s,xs,dfe,label
+most important,q0.2,0.6003257,marginal
+most important,q0.2,0.57342744,conditional
+most important,q0.5,0.542518,marginal
+most important,q0.5,0.5513008,conditional
+most important,q0.8,0.54109013,marginal
+most important,q0.8,0.5107522,conditional
+median important,q0.2,0.5331949,marginal
+median important,q0.2,0.52963865,conditional
+median important,q0.5,0.52511925,marginal
+median important,q0.5,0.51863265,conditional
+median important,q0.8,0.50986576,marginal
+median important,q0.8,0.54421633,conditional
+least important,q0.2,0.50593174,marginal
+least important,q0.2,0.5391289,conditional
+least important,q0.5,0.50950235,marginal
+least important,q0.5,0.5189021,conditional
+least important,q0.8,0.51136816,marginal
+least important,q0.8,0.5230757,conditional
